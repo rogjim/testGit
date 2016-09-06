@@ -13,4 +13,8 @@ public class testClass {
 	public Boolean method3(){
 		return false;
 	}
+	
+	public Integer method2(){
+		return 1;
+	}
 }
