@@ -17,4 +17,8 @@ public class testClass {
 	public Integer method2(){
 		return 1;
 	}
+	
+	public Double method4(){
+		return 4.5;
+	}
 }
