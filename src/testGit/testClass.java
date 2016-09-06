@@ -9,4 +9,8 @@ public class testClass {
 	public String method1(){
 		return "Method1";
 	}
+	
+	public Boolean method3(){
+		return false;
+	}
 }
