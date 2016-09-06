@@ -6,7 +6,7 @@ public class testClass {
 		//Constructor de la página
 	}
 	
-	public String method1(){
+	public static String method1(){
 		return "Method1";
 	}
 	
