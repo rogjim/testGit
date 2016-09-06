@@ -9,4 +9,8 @@ public class testClass {
 	public String method1(){
 		return "Method1";
 	}
+	
+	public Integer method2(){
+		return 1;
+	}
 }
