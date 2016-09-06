@@ -21,4 +21,8 @@ public class testClass {
 	public Double method4(){
 		return 4.5;
 	}
+	
+	public char method5(){
+		return 'A';
+	}
 }
